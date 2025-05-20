@@ -92,7 +92,7 @@ dependencies = [
 
 [[package]]
 name = "crypto-bigint-asm"
-version = "0.1.1"
+version = "0.1.0"
 dependencies = [
  "crypto-bigint",
  "test-log",

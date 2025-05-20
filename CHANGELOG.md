@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.1](https://github.com/dvdplm/crypto-bigint-asm/compare/v0.1.0...v0.1.1) - 2025-05-20
+
+### Other
+
+- release v0.1.0 ([#3](https://github.com/dvdplm/crypto-bigint-asm/pull/3))
+
 ## [0.1.0](https://github.com/dvdplm/crypto-bigint-asm/releases/tag/v0.1.0) - 2025-05-20
 
 ### Other
